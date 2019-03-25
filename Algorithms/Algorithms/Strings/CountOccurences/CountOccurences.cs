@@ -6,19 +6,9 @@ using System.Threading.Tasks;
 
 namespace Algorithms.CountRepeatedWordInText
 {
-    class Program
+    public class CountOccurences
     {
-        static void Main(string[] args)
-        {
-            string text = "hello world";
-            string word = "hello";
-
-            int count = CountOccurences(text, word);
-
-            Console.WriteLine(count);
-        }
-
-        static int CountOccurences(string text, string word)
+        public static int CountOccurences_1(string text, string word)
         {
             string[] textWords = text.Split(' ');
             int count = 0;

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Algorithms.CountRepeatedWordInText")]
+[assembly: AssemblyTitle("Algorithms")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Algorithms.CountRepeatedWordInText")]
+[assembly: AssemblyProduct("Algorithms")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6f05016c-0556-4d38-a3f6-112522b01ca4")]
+[assembly: Guid("8873afd0-19d9-4b93-b54e-635338506fb7")]
 
 // Version information for an assembly consists of the following four values:
 //
