@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.CountRepeatedWordInText
+namespace Algorithms.Strings.CountOccurences
 {
     public class CountOccurences
     {

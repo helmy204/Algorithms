@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit;
+﻿using NUnit.Framework;
 
-namespace Algorithms.CountRepeatedWordInText
+namespace Algorithms.Strings.CountOccurences
 {
     public class Tests
     {
-        [Fact]
+        [Test]
         public void CountOccurences_1()
         {
             // Arrange
@@ -21,7 +16,7 @@ namespace Algorithms.CountRepeatedWordInText
 
             // Assert
             int expected = 1;
-            Assert.Equal(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
     }
 }
